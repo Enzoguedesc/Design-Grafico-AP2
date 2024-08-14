@@ -1,3 +1,3 @@
-# Design-Gr-fico
+# Design-Gráfico
 Enzo Guedes 
 202401000019
