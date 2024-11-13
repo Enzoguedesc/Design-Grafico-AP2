@@ -840,6 +840,7 @@ button:focus {
   padding: 31px 40px 37px;
   color: #fff;
   margin-bottom: 30px;
+  height: 45vmin;
 }
 
 .facilities_item .sec_h4 {
